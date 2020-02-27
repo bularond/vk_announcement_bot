@@ -1,0 +1,5 @@
+api_url = "URL_TO_API"
+vk_api_key = "VK_API_KEY"
+database_url = "DATABASE_URL"
+database_port = "DATABASW_PORT"
+yandex_geocoder_key = "YANDEX_GEOCODER_KEY"
